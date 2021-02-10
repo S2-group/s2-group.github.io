@@ -22,11 +22,11 @@ navbar-links:
   Team: "pages/team" # Michel
   Teaching:
     - Courses: "pages/courses" # Michel
-    - Theses: "pages/theses"
+    - Theses: "pages/theses" # Roberto
     - Alumni: "pages/alumni" # Michel
   Our research:
     - Publications: "pages/publications" # Ilias
-    - Projects: "pages/projects"
+    - Projects: "pages/projects" # Roberto
     - Green Lab: "pages/greenlab" # Ivano
   Awards: "pages/awards"
   Contact: "pages/contact"

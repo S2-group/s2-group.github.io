@@ -128,10 +128,6 @@ team:
     img: /img/people/keerthiga.png
     desc: PhD Student
     website: https://www.linkedin.com/in/keerthiga-rajenthiram
-  - name: Giovanni Fernando
-    img: /img/people/giovanni.jpg
-    desc: Scientific Assistant
-    website: https://www.linkedin.com/in/giovanni-fernando-084442216/
   - name: Tahsin Kamil Simsek
     img: /img/people/tahsin.jpg
     desc: Scientific Assistant

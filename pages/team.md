@@ -136,11 +136,6 @@ team:
     img: /img/people/radu.jpeg
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/radu-apsan-a78296213/
-  - name: Muhammad Butt
-    img: /img/people/muhammad.jpg
-    desc: Scientific Assistant
-    website: https://www.linkedin.com/in/muhammad-butt-b551491a2/
-    github: https://github.com/moham1999
 ---
 {% include list-squares.html items=page.team %}
 

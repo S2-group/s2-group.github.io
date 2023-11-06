@@ -42,14 +42,14 @@ title: Research Projects
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
     <div style="text-align: center;">
         <figure>
-             <img height="200" width="auto" src="/img/logos/placeholder_img.png"
+             <img height="200" width="auto" src="/img/logos/sustainablecloud.png"
                 alt="">
             <figcaption></figcaption>
         </figure>
         <div><strong style="color: #00FF00;">SustainableCloud</strong><br></div>
         <div style="text-align:left;">    
             In this project, we aim to answer the fundamental questions about how sustainability is affected by the way software running in the cloud is structured, and in doing so, develop tools that help making software more sustainable.
-            <a href="https://www.nwo.nl/en/news/seventeen-innovative-research-projects-launched-through-open-competition-domain-science-m-1">[Read more.]<br><br><br><br></a>
+            <a href="https://s2group.cs.vu.nl/sustainablecloud/">[Read more.]<br><br><br><br></a>
         </div>
     </div>
 </div>

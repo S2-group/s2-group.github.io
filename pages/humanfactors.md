@@ -31,18 +31,23 @@ title: Human Factors Club
    </tr>
    <tr>
      <td>March 15, 2023</td>
-     <td>TBA</td>
-    <td>TBA</td> 
+     <td>none</td>
+    <td>none</td> 
    </tr>
    <tr>
      <td>April 19, 2023</td>
-     <td>TBA</td>
-    <td>TBA</td> 
+     <td>Watch Disclosure (Netflix)</td>
+    <td>none</td> 
    </tr>
    <tr>
      <td>May 17, 2023</td>
-     <td>TBA</td>
-    <td>TBA</td> 
+     <td>Discuss data visualization</td>
+    <td>none</td> 
+   </tr>
+     <tr>
+     <td>Nov 21, 2023</td>
+     <td><a href="https://thereader.mitpress.mit.edu/gender-has-a-history-and-its-more-recent-than-you-may-realize/">Gender(s) by Kathyrn Bond Stockton</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1oIhBKqmoqlyte6_dcJNlb6-gaELds94lqyodS8y6RtE/edit?usp=sharing">Slides</a></td> 
    </tr>
  </table>
 

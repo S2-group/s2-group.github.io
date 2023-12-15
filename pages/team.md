@@ -64,6 +64,12 @@ team:
     img: /img/people/zubaria.jpg
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/zubaria-inayat-a45030131/
+    url: https://www.linkedin.com/in/zubaria-inayat-a45030131/
+- name: Abhishek Iyer
+    img: /img/people/abhishek.jpg
+    desc: Junior Lecturer
+    website: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
+    url: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
   - name: Robert Deckers
     img: /img/people/robert.jpeg
     desc: PhD Student

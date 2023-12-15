@@ -65,7 +65,7 @@ team:
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/zubaria-inayat-a45030131/
     url: https://www.linkedin.com/in/zubaria-inayat-a45030131/
-- name: Abhishek Iyer
+  - name: Abhishek Iyer
     img: /img/people/abhishek.jpg
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/abhishek-iyer-25774b1ab

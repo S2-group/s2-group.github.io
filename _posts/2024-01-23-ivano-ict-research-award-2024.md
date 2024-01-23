@@ -13,4 +13,4 @@ The prestigious Dutch Prize for ICT research is awarded annually to a scientific
 
 Malavolta will receive his award at a ceremony during ICT.OPEN2024, which will take place on 10 and 11 April 2024 in Utrecht.
 
-Original news available [here](https://www.nwo.nl/en/news/dr-ivano-malavolta-wins-the-dutch-prize-for-ict-research-2024)
+Original article available [here](https://www.nwo.nl/en/news/dr-ivano-malavolta-wins-the-dutch-prize-for-ict-research-2024).

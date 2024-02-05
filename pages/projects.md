@@ -42,6 +42,21 @@ title: Research Projects
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
     <div style="text-align: center;">
         <figure>
+                <img height="200" width="auto" src="/img/logos/placeholder_img.png"
+                alt="">
+            <figcaption></figcaption>
+        </figure>
+        <div><strong style="color: #00FF00;">uDEVOPS</strong><br></div>
+        <div style="text-align:left;">    
+            This project aims to form an international and inter-sectoral research network via bidirectional secondments focusing on SQA for µDevOps engineering processes in 4 key drivers – Context Learning via AI/ML, Continuous in vivo testing for service-based software in agile/DevOps processes, and risk assessment.
+            <a href="https://microdevops.wordpress.com/">[Read more.]<br><br><br><br></a>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+    <div style="text-align: center;">
+        <figure>
              <img height="200" width="auto" src="/img/logos/sustainablecloud.png"
                 alt="">
             <figcaption></figcaption>
@@ -89,6 +104,7 @@ title: Research Projects
 </div>
 
 # Past projects
+- - [BUMBLE - Blended Modelling for Enhanced Software and Systems Engineering](https://itea4.org/project/bumble.html)
 - [Green Tactics for Robotics Software](https://www.nwo.nl/en/calls/open-competition-domain-science-xs-pakket-21-1)
 - [Lower Energy Acceleration Program (LEAP)](https://amsterdameconomicboard.com/en/initiatief/leap-lower-energy-acceleration-program#)
 - MRA Greening the cloud

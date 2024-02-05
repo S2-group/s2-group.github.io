@@ -104,7 +104,7 @@ title: Research Projects
 </div>
 
 # Past projects
-- - [BUMBLE - Blended Modelling for Enhanced Software and Systems Engineering](https://itea4.org/project/bumble.html)
+- [BUMBLE - Blended Modelling for Enhanced Software and Systems Engineering](https://itea4.org/project/bumble.html)
 - [Green Tactics for Robotics Software](https://www.nwo.nl/en/calls/open-competition-domain-science-xs-pakket-21-1)
 - [Lower Energy Acceleration Program (LEAP)](https://amsterdameconomicboard.com/en/initiatief/leap-lower-energy-acceleration-program#)
 - MRA Greening the cloud

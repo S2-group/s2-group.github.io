@@ -11,6 +11,16 @@ title: Awards
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+## ❖ 2023 Outstanding Associate Editor
+<p style="margin-top:-16px;"></p>  
+**Recipient:** _Ivano Malavolta_<br>
+**Awarded by:** the ICT research platform Netherlands (IPN), COMMIT\, and the Royal Holland Society of Sciences and Humanities (KHMW)<br><br>
+
+## ❖ Dutch Prize for ICT Research 2024
+<p style="margin-top:-16px;"></p>  
+**Recipient:** _Ivano Malavolta_<br>
+**Venue:** Frontiers in Robotics and AI international journal<br><br>
+
 ## ❖ Distinguished Reviewer Award
 <p style="margin-top:-16px;"></p>  
 **Recipient:** _Ivano Malavolta_<br>
@@ -38,11 +48,16 @@ title: Awards
 **Venue:** Context-aware, Autonomous and Smart Architecture Workshop@ECSA<br>
 **Awarded for the Paper:** _"MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-Adaptive Systems"_<br><br>
 
+## ❖ SoSyM-first paper award at MODELS 2022
+<p style="margin-top:-16px;"></p>  
+**Recipient:** Istvan David, Malvina Latifaj, Jakob Pietron, Weixing Zhang, Federico Ciccozzi, _Ivano Malavolta_, Alexander Raschke, Jan-Philipp Steghöfer, Regina Hebig<br>
+**Venue:** ACM / IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS 2022)<br>
+**Awarded for the Paper:** _"Blended Modeling in Commercial and Open-source Model-Driven Software Engineering Tools: A Systematic Study"_<br><br>
+
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>  
 **Recipient:** _Roberto Verdecchia_<br>
 **Venue:** European Conference on Software Architecture<br><br>
-
 
 ## ❖ Best Paper Award at the Journal of Systems and Software (JSS)
 <p style="margin-top:-16px;"></p>  
@@ -61,7 +76,6 @@ title: Awards
 **Recipient:** _Patricia Lago_<br>
 **Venue:** IEEE International Conference on Software Architecture 2021 (ICSA)<br><br>
 ![ICSA21](https://s2group.cs.vu.nl/img/awards/patricia-best-reviewer-award-icsa-2021.jpeg "ICSA 2021 Award")<br><br>
-
 
 ## ❖ Best Presentation Award
 <p style="margin-top:-16px;"></p>  

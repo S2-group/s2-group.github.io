@@ -142,6 +142,10 @@ team:
     img: /img/people/radu.jpeg
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/radu-apsan-a78296213/
+  - name: Andrei Dragomir
+    img: /img/people/andrei-calin.jpeg
+    desc: Scientific Assistant
+    website: [https://www.linkedin.com/in/radu-apsan-a78296213/](https://github.com/andrei-calin-dragomir)
 ---
 {% include list-squares.html items=page.team %}
 

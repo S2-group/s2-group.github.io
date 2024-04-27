@@ -75,11 +75,6 @@ team:
     desc: PhD Student
     website: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
     url: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
-  - name: Razieh Alidoosti
-    img: /img/people/razieh.jpeg
-    desc: PhD Student
-    website: https://research.vu.nl/en/persons/razieh-alidoosti
-    url: https://research.vu.nl/en/persons/razieh-alidoosti
   - name: Anjana M S
     img: /img/people/anjana.jpeg
     desc: PhD Student
@@ -162,7 +157,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
-- [Kousar Aslam](https://nl.linkedin.com/in/kousar-aslam-61a39216b)
+- [Dr. Razieh Alidoosti](https://www.linkedin.com/in/razieh-alidoosti-7780a8271) - Graduated PhD student
 - [Tanjina Islam](https://nl.linkedin.com/in/tanjinaislam)
 - [Nikolaos Chalkiadakis](https://www.linkedin.com/in/chalkn/)
 - [Maël Madon](https://www.irit.fr/~Mael.Madon/)

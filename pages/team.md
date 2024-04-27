@@ -32,11 +32,6 @@ team:
     desc: Assistant Professor
     website: https://iliasger.github.io/
     url: https://iliasger.github.io
-  - name: Dr. Claudia Raibulet
-    img: /img/people/claudia.jpg
-    desc: Assistant Professor
-    website: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
-    url: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
   - name: Dr. Justus Bogner
     img: /img/people/justus.jpg
     desc: Assistant Professor
@@ -55,11 +50,6 @@ team:
     desc: Research Fellow - Digital Architecture
     website: https://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
     url: https://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
-  - name: Dr. Lara Ziosi
-    img: /img/people/lara.jpeg
-    desc: Industrial Lecturer
-    website: https://nl.linkedin.com/in/laraziosi
-    url: https://nl.linkedin.com/in/laraziosi
   - name: Zubaria Inayat
     img: /img/people/zubaria.jpg
     desc: Junior Lecturer
@@ -158,6 +148,8 @@ team:
 
 # Former Members
 - [Dr. Razieh Alidoosti](https://www.linkedin.com/in/razieh-alidoosti-7780a8271) - Graduated PhD student
+- [Dr. Claudia Raibulet](https://www.linkedin.com/in/claudia-raibulet-8149933/)
+- [Dr. Lara Ziosi](https://nl.linkedin.com/in/laraziosi) - Former industrial lecturer
 - [Tanjina Islam](https://nl.linkedin.com/in/tanjinaislam)
 - [Nikolaos Chalkiadakis](https://www.linkedin.com/in/chalkn/)
 - [Maël Madon](https://www.irit.fr/~Mael.Madon/)
@@ -181,7 +173,7 @@ team:
 - [Dr. Hans Burg](https://www.linkedin.com/in/hansburg/)
 - [Dr. Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer/)
 - [Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
-- [Dr. Giordano Tamburrelli](https://nl.linkedin.com/in/giordano-tamburrelli-b532334)
+- [Dr. Giordano Tamburrelli](https://www.linkedin.com/in/giordano-t-b532334/)
 
 # Guests
 - [Prof. Daniela Damian](https://danadamian.wordpress.com/)

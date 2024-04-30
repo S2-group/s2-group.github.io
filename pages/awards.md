@@ -13,13 +13,13 @@ title: Awards
 -->
 ## ❖ 2023 Outstanding Associate Editor
 <p style="margin-top:-16px;"></p>  
-**Recipient:** _Ivano Malavolta_<br>
-**Awarded by:** the ICT research platform Netherlands (IPN), COMMIT\, and the Royal Holland Society of Sciences and Humanities (KHMW)<br><br>
+**Recipient:** _Ivano Malavolta_<be>
+**Venue:** Frontiers in Robotics and AI international journal<br><br>
 
 ## ❖ Dutch Prize for ICT Research 2024
 <p style="margin-top:-16px;"></p>  
-**Recipient:** _Ivano Malavolta_<br>
-**Venue:** Frontiers in Robotics and AI international journal<br><br>
+**Recipient:** _Ivano Malavolta_<be>
+**Awarded by:** the ICT research platform Netherlands (IPN), COMMIT\, and the Royal Holland Society of Sciences and Humanities (KHMW)<br><br>
 
 ## ❖ Distinguished Reviewer Award
 <p style="margin-top:-16px;"></p>  

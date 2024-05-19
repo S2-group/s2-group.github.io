@@ -100,7 +100,7 @@ team:
     url: https://www.linkedin.com/in/joran-leest-204b40165
     github: https://github.com/JoranLeest
   - name: Anna Fischer
-    img: /img/people/anna.jpg
+    img: /img/people/anna-2.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105
   - name: Faezeh Amou Najafabadi

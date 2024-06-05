@@ -77,10 +77,6 @@ In a nutshell, the Green Lab is composed of three main components:
 - Procaccianti, G., Fernández, H., & Lago, P. (2016). Empirical evaluation of two best practices for energy-efficient software development. Journal of Systems and Software, 117, 185-198. [PDF](https://research.vu.nl/ws/portalfiles/portal/1433174/green-practices-JSS.pdf)
 - Jagroep, E., Procaccianti, G., van der Werf, J. M., Brinkkemper, S., Blom, L., & van Vliet, R. (2017). Energy efficiency on the product roadmap: An empirical study across releases of a software product. Journal of Software: Evolution and process, 29(2), e1852. [PDF](https://research.vu.nl/ws/portalfiles/portal/1601940/Energy+efficiency+on+the+product+roadmap+an+empirical+study+across+releases+of+a+software+product.pdf)
  
-# Other
-
-The Green Lab is also hosting the [COVID Android apps observer](https://github.com/iivanoo/covid-apps-observer). An open-source project aiming at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, and security-related issues.
-
 
 
 

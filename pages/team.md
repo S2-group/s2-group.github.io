@@ -39,6 +39,13 @@ team:
     url: https://xjreb.github.io
     github: https://github.com/xJREB
     twitter: https://twitter.com/JREB1990
+  - name: Dr. Fernanda Madeiral
+    img: /img/people/fernanda.jpg
+    desc: Assistant Professor
+    website: https://fermadeiral.github.io
+    url: https://fermadeiral.github.io
+    github: https://github.com/fermadeiral
+    twitter: https://twitter.com/fermadeiral
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher

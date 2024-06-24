@@ -11,6 +11,12 @@ title: Awards
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+
+## ❖ Distinguished Reviewer Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Fernanda Madeiral_<br>
+**Venue:** 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)<br><br>
+
 ## ❖ 2023 Outstanding Associate Editor
 <p style="margin-top:-16px;"></p>  
 **Recipient:** _Ivano Malavolta_<br>

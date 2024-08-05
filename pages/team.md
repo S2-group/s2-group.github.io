@@ -138,10 +138,7 @@ team:
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant
     website: https://github.com/andrei-calin-dragomir
-  - name: Rumbidzai Chitakunye
-    img: /img/people/rumbidzai.jpg
-    desc: PhD Student
-    website: https://www.linkedin.com/in/rumbidzai-chitakunye-b2b4aa178/
+
 ---
 {% include list-squares.html items=page.team %}
 

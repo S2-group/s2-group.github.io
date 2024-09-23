@@ -55,6 +55,7 @@ team:
   - name: Dr. Klervie Toczé
     img: /img/people/KlervieCarre.png
     desc: Postdoc Researcher
+    website: https://www.linkedin.com/in/klervietocze/
     url: https://www.linkedin.com/in/klervietocze/
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
@@ -101,7 +102,7 @@ team:
   - name: Iffat Fatima
     img: /img/people/iffat.jpg
     desc: PhD Student
-    website: https://www.linkedin.com/in/iffat-fatima
+    website: http://www.fatimaiffat.com
     url: https://www.linkedin.com/in/iffat-fatima
     github: https://github.com/iffatfatima
   - name: Joran Leest

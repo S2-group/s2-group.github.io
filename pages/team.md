@@ -46,12 +46,16 @@ team:
     url: https://fermadeiral.github.io
     github: https://github.com/fermadeiral
     twitter: https://twitter.com/fermadeiral
-  - name: Vincenzo Stoico
+  - name: Dr. Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
     url: https://twitter.com/vinzstoico
     twitter: https://twitter.com/vinzstoico
     github: https://github.com/vnzstc
+  - name: Dr. Klervie Toczé
+    img: /img/people/KlervieCarre.png
+    desc: Postdoc Researcher
+    url: https://www.linkedin.com/in/klervietocze/
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Research Fellow - Digital Architecture

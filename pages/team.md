@@ -135,14 +135,6 @@ team:
     img: /img/people/rumbidzai.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/rumbidzai-chitakunye-b2b4aa178/
-  - name: Tahsin Kamil Simsek
-    img: /img/people/tahsin.jpg
-    desc: Scientific Assistant
-    website: http://www.linkedin.com/in/tahsin-kamil-%C5%9Fim%C5%9Fek-3b288b21b
-  - name: Radu Apsan
-    img: /img/people/radu.jpeg
-    desc: Scientific Assistant
-    website: https://www.linkedin.com/in/radu-apsan-a78296213/
   - name: Andrei Dragomir
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant
@@ -163,6 +155,8 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Radu Apsan](https://www.linkedin.com/in/radu-apsan-a78296213/) - Scientific assistant
+- [Tahsin Kamil Simsek](http://www.linkedin.com/in/tahsin-kamil-%C5%9Fim%C5%9Fek-3b288b21b) - Scientific assistant
 - [Dr. Razieh Alidoosti](https://www.linkedin.com/in/razieh-alidoosti-7780a8271) - Graduated PhD student
 - [Dr. Claudia Raibulet](https://www.linkedin.com/in/claudia-raibulet-8149933/)
 - [Dr. Lara Ziosi](https://nl.linkedin.com/in/laraziosi) - Former industrial lecturer

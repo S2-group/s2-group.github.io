@@ -10,11 +10,6 @@ team:
     url: http://patricialago.nl
     github: https://github.com/lagopat
     twitter: https://twitter.com/patricia_lago
-  - name: Prof. Antony Tang
-    img: /img/people/antony.jpeg
-    desc: Adjunct Associate Professor
-    website: https://au.linkedin.com/in/antony-tang-8a501612
-    url: https://au.linkedin.com/in/antony-tang-8a501612
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Associate Professor
@@ -152,6 +147,7 @@ team:
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
+- [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Roberto Verdecchia](https://robertoverdecchia.github.io/) - Graduated PhD student
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)

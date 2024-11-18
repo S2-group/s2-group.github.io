@@ -130,7 +130,7 @@ team:
     img: /img/people/rumbidzai.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/rumbidzai-chitakunye-b2b4aa178/
-    - name: Engelbert Fellinger
+  - name: Engelbert Fellinger
     img: /img/people/engelbert.jpeg
     desc: PhD Student
     website: https://orcid.org/0009-0001-4331-5825

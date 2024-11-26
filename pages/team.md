@@ -67,11 +67,6 @@ team:
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
     url: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
-  - name: Robert Deckers
-    img: /img/people/robert.jpeg
-    desc: PhD Student
-    website: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
-    url: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
   - name: Anjana M S
     img: /img/people/anjana.jpeg
     desc: PhD Student
@@ -159,6 +154,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Robert Deckers](https://www.linkedin.com/in/robertdeckers/)
 - [Radu Apsan](https://www.linkedin.com/in/radu-apsan-a78296213/)
 - [Tahsin Kamil Simsek](http://www.linkedin.com/in/tahsin-kamil-%C5%9Fim%C5%9Fek-3b288b21b)
 - [Dr. Razieh Alidoosti](https://www.linkedin.com/in/razieh-alidoosti-7780a8271) - Graduated PhD student

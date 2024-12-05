@@ -8,7 +8,7 @@ comments: true
 
 Imagine a world where you make a conscious choice every time you upload a file to the Cloud towards a greener planet. That's the ambitious vision behind the [Think Before You Save](https://github.com/adam-bouafia/Think-Before-You-Save) project by [Adam Bouafia](https://www.linkedin.com/in/adam-bouafia-b597ab86/), a student of the 2024/2025 edition of the Green Lab course who is attending the GSEEM international track of the Computer Science Master program at VU Amsterdam.
 
-![ADAMBOUAFIAAWARD](/files/posts/adam_bouafia.jpeg =300px){: .mx-auto.d-block :}
+![ADAMBOUAFIAAWARD](/files/posts/adam_bouafia.jpeg){: .mx-auto.d-block :}
 
 The [Think Before You Save](https://github.com/adam-bouafia/Think-Before-You-Save) project is the winner of the Green IT category in the recent [Green Waves Hackathon](https://www.tudelft.nl/climate-action/agenda/green-waves-hackathon-sustainable-it-water) organized by TU Delft's Climate Action Programme.
 

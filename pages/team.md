@@ -44,8 +44,9 @@ team:
   - name: Dr. Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
-    url: https://twitter.com/vinzstoico
-    twitter: https://twitter.com/vinzstoico
+    website: https://vstoico.vercel.app/
+    url: https://vstoico.vercel.app/
+    mastodon: https://mastodon.acm.org/@vnzstc
     github: https://github.com/vnzstc
   - name: Dr. Klervie Toczé
     img: /img/people/KlervieCarre.png

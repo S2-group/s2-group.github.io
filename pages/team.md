@@ -130,6 +130,10 @@ team:
     img: /img/people/engelbert.jpeg
     desc: PhD Student
     website: https://orcid.org/0009-0001-4331-5825
+  - name: Muhammad Imran
+    img: https://spencerlabaq.github.io/author/muhammad-imran/avatar_hu5b862c1a0d78867d5f5052d28f613b29_311952_270x270_fill_q75_box_center.jpg
+    desc: Guest PhD Student
+    website: https://spencerlabaq.github.io/author/muhammad-imran/
   - name: Andrei Dragomir
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant

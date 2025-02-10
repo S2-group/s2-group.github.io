@@ -9,9 +9,9 @@ comments: true
 
 Join us for an insightful seminar by [Prof. Jacques Klein](https://jacquesklein2302.github.io/), full professor in Software Engineering and Software Security at the **University of Luxembourg**. Prof. Klein has been at the forefront of **Android apps analysis** for several years, and this talk will provide a deep dive into key advancements in the field.
 
-#### When: Friday, February 14 at 13:00  
-#### Where: Room NU-5A27  
-#### Speaker: Prof. Jacques Klein (University of Luxembourg)  
+#### **When:** Friday, February 14 at 13:00  
+#### **Where:** Room NU-5A27  
+#### **Speaker:** Prof. Jacques Klein (University of Luxembourg)  
 #### **Title:** A Journey Through Android App Analysis  
 
 **[Register here](https://forms.gle/KcitsbvWDLbvPFT76)** to attend the seminar and secure your spot!

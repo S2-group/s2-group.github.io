@@ -24,5 +24,4 @@ Users can today download a wide variety of apps ranging from simple toy games to
 Dr. Jacques Klein is a full professor in software engineering and software security within the Interdisciplinary Centre for Security, Reliability and Trust (SnT) at the University of Luxembourg. Prof. Klein co-leads a team named TruX of about 30 researchers developing innovative approaches and tools for helping the research and practice communities build trustworthy and secure software. Prof. Klein received a Ph.D. degree in Computer Science from the University of Rennes, France, in 2006. His main areas of expertise are threefold: (1) Software Security, (2) Software Reliability, and (3) Data Analytics. Prof. Klein received multiple most influential papers and has published over 200 papers, often in top venues such as ICSE, FSE, ASE, ISSTA, PLDI, etc. In addition to academic achievements, Prof. Klein also has long-standing experience and expertise in successfully running industrial projects with several industrial partners in various domains by applying AI, software engineering, information retrieval, etc., to their research problems.
 
 
----
 We look forward to seeing you there!

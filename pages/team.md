@@ -130,6 +130,10 @@ team:
     img: /img/people/engelbert.jpeg
     desc: PhD Student
     website: https://orcid.org/0009-0001-4331-5825
+  - name: Bouazza El Moutaouakil 
+    img: /img/people/sibo.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/bouazza-el-moutaouakil-841507109
   - name: Muhammad Imran
     img: https://spencerlabaq.github.io/author/muhammad-imran/avatar_hu5b862c1a0d78867d5f5052d28f613b29_311952_270x270_fill_q75_box_center.jpg
     desc: Guest PhD Student

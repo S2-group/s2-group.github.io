@@ -34,13 +34,6 @@ team:
     url: https://xjreb.github.io
     github: https://github.com/xJREB
     twitter: https://twitter.com/JREB1990
-  - name: Dr. Fernanda Madeiral
-    img: /img/people/fernanda.jpg
-    desc: Assistant Professor
-    website: https://fermadeiral.github.io
-    url: https://fermadeiral.github.io
-    github: https://github.com/fermadeiral
-    twitter: https://twitter.com/fermadeiral
   - name: Dr. Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
@@ -163,7 +156,8 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
-- [Robert Deckers](https://www.linkedin.com/in/robertdeckers/) - Graduated PhD student
+- [Dr. Fernanda Madeiral](https://fermadeiral.github.io)
+- [Dr. Robert Deckers](https://www.linkedin.com/in/robertdeckers/) - Graduated PhD student
 - [Radu Apsan](https://www.linkedin.com/in/radu-apsan-a78296213/)
 - [Tahsin Kamil Simsek](http://www.linkedin.com/in/tahsin-kamil-%C5%9Fim%C5%9Fek-3b288b21b)
 - [Dr. Razieh Alidoosti](https://www.linkedin.com/in/razieh-alidoosti-7780a8271) - Graduated PhD student

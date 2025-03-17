@@ -1,7 +1,10 @@
-## Research Seminar by Mauricio Aniche
+
+**Title: Test selection at Adyen**
 
 **Where:** NU-3A67
+
 **When:** Tuesday March 18, 11:00
+
 **Speaker:** Mauricio Aniche
 
 ### Abstract

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our GSMM Paper is selected as Spring 2025 Editor's Choice Paper"
+title: "Our GSMM Paper selected as Spring 2025 Editor's Choice Paper"
 tags: [seminar]
 comments: true
 ---

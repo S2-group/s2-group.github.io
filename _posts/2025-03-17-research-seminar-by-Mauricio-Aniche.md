@@ -13,4 +13,4 @@ If you work on a large-scale software system, odds are that a significant part o
 ### Bio
 Dr. Maurício Aniche’s life mission is to help software engineers to become better and more productive. Maurício leads the Testing Enablement team at Adyen, which focuses on making sure engineers have the best tools at hand to ensure the quality of their systems. Maurício was also an assistant professor of software engineering at Delft University of Technology in the Netherlands (2019-2024). His research back then was focused on many different aspects of software quality. His teaching efforts in software testing gave him the Computer Science Teacher of the Year 2021 award and the TU Delft Education Fellowship, a prestigious fellowship given to innovative lecturers. He’s the author of *Effective Software Testing: A Developer’s Guide* (2022) and *Simple Object-Oriented Design: Create clean, maintainable applications* (2024), both published by Manning.
 
-![img](/assets/img/adyen.png)
+![img](/assets/img/Mauricio.jpg)

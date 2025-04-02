@@ -4,8 +4,7 @@ cover-img: /assets/img/cover.jpg
 full-width: true
 ---
 
-<div class="col-xl-2"></div>
-<div class="col-xl-5">
+<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
 
 	{% assign posts = paginator.posts | default: site.posts %}
 
@@ -108,11 +107,3 @@ full-width: true
 	{% endif %}
 
 </div>
-
-<div class="col-xl"></div>
-
-<div class="col-xl-3">
-  <a class="twitter-timeline" data-theme="dark" data-height="800" href="https://twitter.com/s2_group?ref_src=twsrc%5Etfw">Tweets by s2_group</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<div class="col-xl"></div>

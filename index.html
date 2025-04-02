@@ -4,7 +4,24 @@ cover-img: /assets/img/cover.jpg
 full-width: true
 ---
 
-<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Latest news and updates</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+<div class=" container-md " role="main">
+  <div class="row">
+	<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
 
 	{% assign posts = paginator.posts | default: site.posts %}
 
@@ -106,4 +123,4 @@ full-width: true
 	</ul>
 	{% endif %}
 
-</div>
+</div></div></div>

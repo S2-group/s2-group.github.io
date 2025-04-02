@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our GSMM Paper selected as Spring 2025 Editor's Choice Paper"
+title: "S2 paper selected as Spring 2025 Editor's Choice Paper for the FGCS journal"
 tags: [seminar]
 comments: true
 ---
@@ -9,9 +9,9 @@ comments: true
 ![img](/assets/img/GSSM-editors-choice.png)
 
 
-We are happy to announce that our paper, *"Development and Evaluation of a Reference Measurement Model for Assessing the Resource and Energy Efficiency of Software Products and Components—Green Software Measurement Model (GSMM),"* has been selected as the **Spring 2025 Editor’s Choice Paper**!  
+We are happy to announce that our paper titled *"Development and Evaluation of a Reference Measurement Model for Assessing the Resource and Energy Efficiency of Software Products and Components—Green Software Measurement Model (GSMM)"* has been selected as the **Spring 2025 Editor’s Choice Paper** at the Future Generations of Computer Systems journal.  
 
-This recognition highlights the our contribution towards software sustainability. 
+This recognition highlights our contributions towards software sustainability. 
 
 The paper is co-authored by **Giovanni Fernando, Markus Funke, Patricia Lago, and Ivano Malavolta** from the **S2 Research Group**.  
 

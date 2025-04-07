@@ -8,9 +8,48 @@ title: Awards
 ## ❖ AWARD NAME
 <p style="margin-top:-16px;"></p>  
 **Recipients:** _S2member_, other members<br>
-**Venue:** <br><br>
+**Venue:** 18th European Conference on Software Architecture (ECSA 2024) <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+
+## ❖ ICSA Diversity and Inclusion Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Patricia Lago_<br>
+**Venue:** 22nd IEEE International Conference on Software Architecture (ICSA 2025) <br><br>
+**Awarded for:** _"Her leadership in advancing diversity and fostering an inclusive environment in the software architecture community, inspiring equitable participation in science and engineering."_<br><br>
+
+## ❖ Distinguished Reviewer Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Ilias Gerostathopoulos_<br>
+**Venue:** 18th European Conference on Software Architecture (ECSA 2024) <br><br>
+
+
+## ❖ Distinguished Reviewer Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Justus Bogner_<br>
+**Venue:** 18th European Conference on Software Architecture (ECSA 2024) <br><br>
+
+
+## ❖ Distinguished Open Artifact Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Iffat Fatima and Patricia Lago_<br>
+**Venue:** 18th European Conference on Software Architecture (ECSA 2024) <br><br>
+**Awarded for the Atrifact:** _"[Software Architecture Assessment for Sustainability: A Case Study](https://zenodo.org/records/11655904)"_<br><br>
+
+
+## ❖ Best Paper Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Ivano Malavolta, Sofia Migliorini, Roberto Verdecchia, Enrico Vicario and Patricia Lago_<br>
+**Venue:** 18th European Conference on Software Architecture (ECSA 2024) <br><br>
+**Awarded for the Paper:** _"[Architectural Views: The State of Practice in Open-Source Software Projects](https://robertoverdecchia.github.io/papers/ECSA_2024.pdf)"_<br><br>
+
+
+## ❖ Most Influential Paper Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Emitza Guzman and Walid Maalej_<br>
+**Venue:** 2014 IEEE 22nd International Requirements Engineering Conference (RE) <br><br>
+**Awarded for the Paper:** _"[How Do Users Like This Feature? A Fine-Grained Sentiment Analysis of App Reviews](https://ieeexplore.ieee.org/abstract/document/6912257)"_<br><br>
+
 
 ## ❖ Distinguished Reviewer Award
 <p style="margin-top:-16px;"></p>

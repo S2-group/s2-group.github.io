@@ -6,6 +6,11 @@ title: Our talks
 
 We are regularly invited to disseminate our scientific insights in invited talks and keynotes at scientific conferences, professional networks, and companies. Below we provide the slide decks that are more representative of our dissemination talks. 
 
+## Transparency first: assessing (and reporting) the Software Carbon Intensity of large-scale AI systems
+by Ivano Malavolta (Invited talk @ GreenSys 2025)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDiWF2hNNx5RB7sLJISbL-P_zZmsDdrC6PG6acpg1W_xFXu2MmCMNocnCyfqHe5iInIsn6hptEe5QA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="595" height="485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers
 by Patricia Lago (Keynote @ PoEM 2021)
 

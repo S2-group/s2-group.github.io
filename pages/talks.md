@@ -10,6 +10,7 @@ All invited talks take place at the Vrije Universiteit Amsterdam. PhD and Master
 
 | Date | Speaker |
 | --- | --- |
+| March 18, 2025 | [Mauricio Aniche]([https://people.cs.kuleuven.be/~danny.weyns/](https://www.mauricioaniche.com/)) Adyen |
 | February 3rd, 2020 | [Danny Weyns](https://people.cs.kuleuven.be/~danny.weyns/) Katholieke Universiteit Leuven |
 | November 1st, 2019 | [Matteo Micheletti](https://www.researchgate.net/profile/Matteo-Micheletti), University of Camerino |
 | October 17th, 2019 | [Luis Cruz](https://luiscruz.github.io/), Delft University of Technology |

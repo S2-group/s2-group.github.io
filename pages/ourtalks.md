@@ -6,6 +6,11 @@ title: Our talks
 
 We are regularly invited to disseminate our scientific insights in invited talks and keynotes at scientific conferences, professional networks, and companies. Below we provide the slide decks that are more representative of our dissemination talks. 
 
+## Software for the Planet: Energy Efficiency and Large Language Models
+by Ivano Malavolta - keynote @ Software Engineering track of ICT.Open 2025
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRizJh-9BnFvNhbiNcKvTfFL1-09Vmb2OXMzn8HbptYj7n5n6SI_x6EBeXtOyUYJ9Yk_4A1bdDKovBo/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Transparency first: assessing (and reporting) the Software Carbon Intensity of large-scale AI systems
 by Ivano Malavolta - invited talk @ GreenSys 2025
 

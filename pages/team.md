@@ -36,7 +36,7 @@ team:
     twitter: https://twitter.com/JREB1990
   - name: Dr. Vincenzo Stoico
     img: /img/people/vincenzo.jpg
-    desc: Postdoc Researcher
+    desc: Assistant Professor
     website: https://vstoico.vercel.app/
     url: https://vstoico.vercel.app/
     mastodon: https://mastodon.acm.org/@vnzstc

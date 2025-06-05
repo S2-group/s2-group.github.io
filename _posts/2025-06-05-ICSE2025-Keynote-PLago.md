@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICSE 2025 Keynote by Prof. Dr. Patricia Lago: Software Sustainability and its Engineering: How Far Have We Come?"
+title: "Prof. Dr. Patricia Lago Invited as Keynote Speaker at ICSE 2025 in Ottawa"
 tags: [keynote]
 comments: true
 ---

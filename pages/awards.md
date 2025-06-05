@@ -14,7 +14,7 @@ title: Awards
 
 ## ❖ 10-Year Most Influential Paper Award
 <p style="margin-top:-16px;"></p>  
-**Recipients:** ntonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’Ippolito, _Ilias Gerostathopoulos_, Andreas B. Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir Molzam Sharioo, Stepan Shevtsov, Mateusz Ujma, Thomas Vogel<br>
+**Recipients:** Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’Ippolito, **Ilias Gerostathopoulos**, Andreas B. Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir Molzam Sharioo, Stepan Shevtsov, Mateusz Ujma, Thomas Vogel<br>
 **Venue:** 20th International Conference on Software Engineering for Adaptive and Self-Managing Systems <br>
 **Awarded for the Paper:** [Software Engineering Meets Control Theory](https://ieeexplore.ieee.org/document/7194659)<br><br>
 

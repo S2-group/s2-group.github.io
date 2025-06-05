@@ -24,6 +24,14 @@ title: Awards
 **Venue:** 22nd IEEE International Conference on Software Architecture (ICSA 2025) <br>
 **Awarded for:** _"Her leadership in advancing diversity and fostering an inclusive environment in the software architecture community, inspiring equitable participation in science and engineering."_<br><br>
 
+## ❖ KHMW Young Talent Thesis Prize 2024
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Eloise Zhang_<br>
+**Supervisors:** Justus Bogner and Patricia Lago<br>
+**Thesis Title:** How Relevant and Applicable are Green Architectural Tactics for ML-enabled Systems? A Case Study<br>
+**Awarded by:** Koninklijke Hollandsche Maatschappij der Wetenschappen<br><br>
+
+
 ## ❖ Distinguished Reviewer Award
 <p style="margin-top:-16px;"></p>
 **Recipient:** _Ilias Gerostathopoulos_<br>
@@ -55,6 +63,21 @@ title: Awards
 **Recipient:** _Emitza Guzman and Walid Maalej_<br>
 **Venue:** 2014 IEEE 22nd International Requirements Engineering Conference (RE) <br>
 **Awarded for the Paper:** _"[How Do Users Like This Feature? A Fine-Grained Sentiment Analysis of App Reviews](https://ieeexplore.ieee.org/abstract/document/6912257)"_<br><br>
+
+
+## ❖ Spring 2025 Editor's Choice Paper for the FGCS journal
+<p style="margin-top:-16px;"></p>
+**Recipient:** Achim Guldner and Rabea Bender and Coral Calero and **Giovanni S. Fernando** and **Markus Funke** and Jens Gröger and Lorenz M. Hilty and Julian Hörnschemeyer and Geerd-Dietger Hoffmann and Dennis Junger and Tom Kennes and Sandro Kreten and **Patricia Lago** and Franziska Mai and **Ivano Malavolta** and Julien Murach and Kira Obergöker and Benno Schmidt and Arne Tarara and Joseph P. {De Veaugh-Geiss} and Sebastian Weber and Max Westing and Volker Wohlgemuth and Stefan Naumann<br>
+**Venue:** Future Generations of Computer Systems <br>
+**Awarded for the Paper:** _"[Development and Evaluation of a Reference Measurement Model for Assessing the Resource and Energy Efficiency of Software Products and Components—Green Software Measurement Model (GSMM)](https://doi.org/10.1016/j.future.2024.01.033)"_<br><br>
+
+
+## ❖  VERSEN Master Thesis Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Christos Petalotis_<br>
+**Supervisor:** Ivano Malavolta<br>
+**Thesis Title:** A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis<br>
+**Awarded by:** VEReniging Software Engineering Nederland<br><br>
 
 
 ## ❖ Distinguished Reviewer Award

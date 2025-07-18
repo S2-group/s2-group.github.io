@@ -5,7 +5,6 @@ tags: [edu]
 comments: true
 ---
 
-# The Next Generation of Innovators: Inside the 2025 InnoGuard Summer School  
 
 The [InnoGuard project](https://cordis.europa.eu/project/id/101169233), a European Union initiative funded through the MSCA Doctoral Networks, is dedicated to advancing Accountable Cyber-Physical Systems (ACPS). As part of its ongoing commitment to excellence in research and collaboration, the project recently held its 2025 InnoGuard Summer School, hosted at Simula in Oslo.
 

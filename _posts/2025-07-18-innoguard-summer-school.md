@@ -10,13 +10,13 @@ The [InnoGuard project](https://cordis.europa.eu/project/id/101169233), a Europe
 
 This week-long programme brought together the project’s PhD candidates and supervisors for a dynamic curriculum designed to accelerate technical expertise, foster high-impact research, and strengthen professional networks.
 
----
+
 
 ## 🤝 Building a Collaborative Foundation
 
 The summer school opened with a presentation on the InnoGuard project’s strategic goals and consortium-wide objectives, delivered by Project Coordinator Aitor Arrieta. This was followed by team-building activities led by Sebastiano Panichella and Miren Ivankovic, laying the groundwork for collaboration across the international student cohort.
 
----
+
 
 ## 🛠️ Bridging Technical Skills with Theory
 
@@ -24,7 +24,7 @@ One of the key technical highlights was the "Hands-on with LeoRover" session led
 
 Complementing these technical sessions, Pablo Sanchez delivered a workshop on effective dissemination strategies, and Miren Ivankovic conducted a session on network development, equipping students with tools for collaboration and increased scientific visibility.
 
----
+
 
 ## 🧭 Research Leadership: Ethics and Career Strategy
 
@@ -32,7 +32,7 @@ Ivano Malavolta, who is also a member of the S2 Group, led an engaging session a
 
 Further sessions supported long-term academic career development. Miren Ivankovic provided a deep dive into the structure and expectations of the InnoGuard doctoral programme. This was followed by a talk from Aitor Arrieta on “Online positioning on research and research lookout tools,” offering practical guidance on navigating the academic ecosystem.
 
----
+
 
 ## 🏭 Connecting Research with Industry
 
@@ -40,7 +40,7 @@ A standout feature of the programme was the “Visiting Industrialist – DNV”
 
 Each PhD student presented their research plans to the DNV team, establishing direct dialogue and feedback on the industrial relevance of their work on ACPS. These interactions were followed by ideation workshops, co-led by Aitor Arrieta and Shaukat Ali, where students collaboratively developed and refined innovative research ideas.
 
----
+
 
 ## 🧠 **Empowering the Next Generation**
 
@@ -50,7 +50,7 @@ Two members of the **S2 Group** actively contributed to the event:
 - **Ivano Malavolta**, who led the ethics session  
 - **Bouazza El Moutaouakil**, who participated as a doctoral researcher within the InnoGuard project  
 
----
+
 
 ![Innoguard Summer School 2025](/files/posts/innoguard-simula.jpeg)
 

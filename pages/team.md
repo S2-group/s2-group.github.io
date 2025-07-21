@@ -135,6 +135,10 @@ team:
     img: /img/people/max_karsten.jpeg
     desc: Scientific Assistant
     website: https://github.com/mhkarsten
+  - name: Konstantinos Kozanis
+    img: /img/people/kozanis.jpg
+    desc: Scientific Assistant
+    website: https://github.com/Tsosko
 ---
 {% include list-squares.html items=page.team %}
 

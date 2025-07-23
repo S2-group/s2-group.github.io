@@ -47,51 +47,96 @@ In a nutshell, the Green Lab is composed of three main components:
 - Felix Nahrstedt, Mehdi Karmouche, Karolina Bargiel, Pouyeh Banijamali, Apoorva Nalini Pradeep Kumar, Ivano Malavolta (2024). An Empirical Study on the Energy Usage and Performance of Pandas and Polars Data Analysis Python Libraries. In Proceedings of the 10th International Conference on Evaluation and Assessment on Software Engineering (EASE), pp. 58–68. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2024.pdf)
 
 - Rafiullah Omar, Justus Bogner, Joran Leest, Vincenzo Stoico, Patricia Lago, Henry Muccini (2024). How to Sustainably Monitor ML-Enabled Systems? Accuracy and Energy Efficiency Tradeoffs in Concept Drift Detection. International Conference on Information and Communications Technology for Sustainability (ICT4S'24). [PDF](https://arxiv.org/abs/2404.19452)
+
 - Christos Petalotis, Luka Krumpak, Maximilian Stefan Floroiu, Lareb Fatima Ahmad, Shashank Athreya, Ivano Malavolta (2024). An Empirical Study on the Performance and Energy Costs of Ads and Analytics in Mobile Web Apps. Information and Software Technology, 166, pp. 107370. [PDF](http://www.ivanomalavolta.com/files/papers/IST_2024.pdf)
+
 - Achim Guldner, Rabea Bender, Coral Calero, Giovanni S. Fernando, Markus Funke, Jens Groger, Lorenz M. Hilty, Julian Hornschemeyer, Geerd-Dietger Hoffmann, Dennis Junger, Tom Kennes, Sandro Kreten, Patricia Lago, Franziska Mai, Ivano Malavolta, Julien Murach, Kira Obergoker, Benno Schmidt, Arne Tarara, Joseph De Veaugh-Geiss, Sebastian Weber, Max Westing, Volker Wohlgemuth, Stefan Naumann (2024). Development and evaluation of a reference measurement model for assessing the resource and energy efficiency of software products and components-Green Software Measurement Model (GSMM). Future Generation Computer Systems, 155, pp. 402-418. [PDF](http://www.ivanomalavolta.com/files/papers/FGCS_2024.pdf)
+
 - Ye Yuan, Jingzhi Zhang, Zongyao Zhang, Kaiwei Chen, Jiacheng Shi, Vincenzo Stoico, Ivano Malavolta (2024). The Impact of Knowledge Distillation on the Energy Consumption and Runtime Efficiency of NLP Models. In 3rd IEEE/ACM International Conference on AI Engineering - Software Engineering for AI, CAIN 2024, Lisbon, Portugal, April 14-15, 2024. [PDF](http://www.ivanomalavolta.com/files/papers/CAIN_2024.pdf)
+
 - Yu Chen, Jinhai Liao, Shutong Cai, Yiming Zhao, Yichen Tong, Ishas Kulkarni, Ivano Malavolta (2024). An Empirical Evaluation of the Energy Consumption of using Web Push APIs in Mobile Web Apps - The Case of Telegram. In 11th IEEE/ACM International Conference on Mobile Software Engineering and Systems. [PDF](http://www.ivanomalavolta.com/files/papers/mobilesoft_2024_web_push_api.pdf)
+
 - Bogdan Andrei, Ivano Malavolta (2024). An Empirical Study on the Impact of CSS Prefixes on the Energy Consumption and Performance of Mobile Web Apps. In 11th IEEE/ACM International Conference on Mobile Software Engineering and Systems. [PDF](http://www.ivanomalavolta.com/files/papers/mobilesoft_2024_css_prefixes.pdf)
+
 - Jyothsna Priya Kattakinda, Sachin Dhananjaya, Samuel Mojzis, Amine Nadif, Mattheus Hanna, Radu Apsan, Ivano Malavolta (2024). Towards Understanding the Energy Consumption of Virtual Reality Applications in Gaming, Education, and Entertainment. In 8th International Workshop on Games and Software Engineering. [PDF](http://www.ivanomalavolta.com/files/papers/GAS_2024.pdf)
+
 - Markus Funke, Patricia Lago, Esther Adenekan, Ivano Malavolta, Ilja Heitlager (2024). Experimental Evaluation of Energy Efficiency Tactics in Industry: Results and Lessons Learned. In 2024 IEEE International Conference on Software Architecture, ICSA. [PDF](http://www.ivanomalavolta.com/files/papers/ICSA_2024.pdf)
+
 - Felix Nahrstedt, Mehdi Karmouche, Karolina Bargiel, Pouyeh Banijamali, Apoorva Nalini Pradeep Kumar, Ivano Malavolta (2024). An Empirical Study on the Energy Usage and Performance of Pandas and Polars Data Analysis Python Libraries. In Proceedings of the 10th International Conference on Evaluation and Assessment on Software Engineering (EASE). [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2024.pdf)
+
 - Vincenzo Stoico, Ivano Malavolta, Patricia Lago (2024). Mirroring Complex Software Systems for In Vitro Experimentation on Computational Resource Waste. In Joint Proceedings of ICT4S 2024 doctoral symposium, demonstrations and posters track and workshops, co-located with 10th International Conference on Information and Communications Technology for Sustainability (ICT4S 2024), pp. Online. [PDF](http://www.ivanomalavolta.com/files/papers/ICT4S_2024_poster.pdf)
+
 - Vit Zemanek, Pepijn de Reus, Yixin Hu, Ana Oprescu, Ivano Malavolta (2024). Exploring the Impact of K-Anonymisation on the Energy Efficiency of Machine Learning Algorithms. In Proceedings of the International Conference on Information and Communications Technology for Sustainability (ICT4S). [PDF](http://www.ivanomalavolta.com/files/papers/ICT4S_2024.pdf)
+
 - Madalina Dinga, Ivano Malavolta, Luca Giammattei, Antonio Guerriero, Roberto Pietrantuono (2023). An Empirical Evaluation of the Energy and Performance Overhead of Monitoring Tools on Docker-based Systems. In Proceedings of the 21st International Conference on Service-Oriented Computing, pp. 181–196. [PDF](http://www.ivanomalavolta.com/files/papers/ICSOC_2023.pdf)
+
 - 	Ivano Malavolta, Kishan Nirghin, Gian Luca Scoccia, Simone Romano, Salvatore Lombardi (2023). JavaScript Dead Code Identification, Elimination, and Empirical Assessment. IEEE Transactions on Software Engineering [PDF](http://www.ivanomalavolta.com/files/papers/TSE_2023.pdf)
+
 - Milica Dordevic, Michel Albonico, Grace Lewis, Ivano Malavolta, Patricia Lago (2023). Computation Offloading for Ground Robotic Systems Communicating over WiFi - An Empirical Exploration on Performance and Energy Trade-offs. Empirical Software Engineering journal. [PDF](http://www.ivanomalavolta.com/files/papers/EMSE_2023.pdf)
+
 - 	Carolina Neves, ChiaYu Lin, Srishti Nigam, Daumantas Patapas, Ander Eguiluz, Tanjina Islam, Ivano Malavolta (2023). A Study on the Energy Consumption and Performance of Single-Activity Android Apps. In Proceedings of the 7th International Workshop on Green and Sustainable Software (GREENS), pp. 9–16. [PDF](http://www.ivanomalavolta.com/files/papers/GREENS_2023.pdf)
+
 - Ruben Horn, Abdellah Lahnaoui, Edgardo Reinoso, Sicheng Peng, Vadim Isakov, Tanjina Islam, Ivano Malavolta (2023). Native vs Web Apps: Comparing the Energy Consumption and Performance of Android Apps and their Web Counterparts. In 10th IEEE/ACM International Conference on Mobile Software Engineering and Systems, pp. 44–54. [PDF](http://www.ivanomalavolta.com/files/papers/MOBILESoft_2023.pdf)
+
 - Hesham Ahmed, Alina Boshchenko, Niaz Khan, Dmitriy Knyajev, Dinara Garifollina, Gian Luca Scoccia, Matias Martinez, Ivano Malavolta (2023). Evolution of Kotlin Apps in terms of Energy Consumption: An Exploratory Study. In Proceedings of the International Conference on Information and Communications Technology for Sustainability (ICT4S) [PDF](http://www.ivanomalavolta.com/files/papers/ICT4S_2023.pdf)
+
 - Linus Wagner, Maximilian Mayer, Andrea Marino, Alireza Soltani Nezhad, Hugo Zwaan, Ivano Malavolta (2023). On the Energy Consumption and Performance of WebAssembly Binaries across Programming Languages and Runtimes in IoT. In Proceedings of the 9th International Conference on Evaluation and Assessment on Software Engineering (EASE), pp. 72–82. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2023.pdf)
+
 - Vincenzo Stoico, Vittorio Cortellessa, Ivano Malavolta, Daniele Di Pompeo, Luigi Pomante, Patricia Lago (2023). An Approach Using Performance Models for Supporting Energy Analysis of Software Systems. In Proceedings of the 19th European Workshop on Computer Performance Engineering EPEW, pp. 249–263. [PDF](http://www.ivanomalavolta.com/files/papers/EPEW_2023.pdf)
+
 - Eoin Grua, Martina De Sanctis, Ivano Malavolta, Mark Hoogendoorn, Patricia Lago (2022). An evaluation of the effectiveness of personalization and self-adaptation for e-Health apps. Information and Software Technology, 146, pp. 106841. [PDF](http://www.ivanomalavolta.com/files/papers/IST_2022.pdf)
+
 - Raluca Maria Hampau, Maurits Kaptein, Robin van Emden, Thomas Rost, Ivano Malavolta (2022). An empirical study on the Performance and Energy Consumption of AI Containerization Strategies for Computer-Vision Tasks on the Edge. In Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE) 2022. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2022_AI.pdf)
+
 - Max van Hasselt, Kevin Huijzendveld, Nienke Noort, Sasja de Ruijter Tanjina Islam, Ivano Malavolta (2022). Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices. In Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE) 2022. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2022_web_assembly.pdf)
+
 - Kalle Janssen, Tim Pelle, Lucas de Geus, Reinier van der Gronden Tanjina Islam, Ivano Malavolta (2022). On the Impact of the Critical CSS Technique on the Performance and Energy Consumption of Mobile Browsers. In Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE) 2022. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2022_critical_css.pdf)
+
 - Leonhard Wattenbach, Basel Aslan, Matteo Maria Fiore, Henley Ding, Roberto Verdecchia, Ivano Malavolta (2022). Do You Have the Energy for This Meeting? An Empirical Study on the Energy Consumption of the Google Meet and Zoom Android apps. In 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MOBILESoft 2022) [PDF](http://www.ivanomalavolta.com/files/papers/MOBILESoft_2022.pdf) 
+
 - Michael Peters, Gian Luca Scoccia, Ivano Malavolta (2021). How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps? Proceedings of the 21st IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) [PDF](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf) <i class="fas fa-award"></i> **Distinguished paper award**
+
 - Eoin Martino Grua, Martina De Sanctis, Ivano Malavolta, Mark Hoogendoorn, Patricia Lago (2021). Social Sustainability in the e-Health Domain via Personalized and Self-adaptive Mobile Apps in Software Sustainability, Edited by Springer, Springer, Vol. 1. [PDF](http://www.ivanomalavolta.com/files/papers/software_sustainability_2021.pdf)
+
 - Ivano Malavolta, Grace A. Lewis, Bradley Schmerl, Patricia Lago, David Garlan (2021). Mining guidelines for architecting robotics software. Journal of Systems and Software, 178, pp. 110969. [PDF](http://www.ivanomalavolta.com/files/papers/JSS_ROS_2021.pdf)
+
 - Ivano Malavolta, Katerina Chinnappan, Stan Swanborn, Grace Lewis, Patricia Lago (2021). Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation. In Proceedings of the 18th International Conference on Mining Software Repositories, MSR, New York, NY [PDF](http://www.ivanomalavolta.com/files/papers/MSR_2021_ros_architectural_tactics.pdf)
+
 - Stylianos Rammos, Mansi Mundra, Guijing Xu, Chuyi Tong, Wojciech Ziółkowski, Ivano Malavolta (2021). The Impact of Instant Messaging on the Energy Consumption of Android Devices. In 8th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2021. [PDF](http://www.ivanomalavolta.com/files/papers/MOBILESoft_2021.pdf)
+
 - Kwame Chan Jong Chu, Tanjina Islam, Miguel Morales Exposito, Sanjay Sheombar, Christian Valladares, Olivier Philippot, Eoin Martino Grua, Ivano Malavolta (2020). Investigating the correlation between performance scores and energy consumption of mobile web apps. In Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE), pp. 190–199. [PDF](http://www.ivanomalavolta.com/files/papers/EASE_2020.pdf)
+
 - Ivano Malavolta, Grace Lewis, Bradley Schmerl, Patricia Lago, David Garlan (2020). How do you Architect your Robots? State of the Practice and Guidelines for ROS-based Systems. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice, pp. 31–40. [PDF](http://www.ivanomalavolta.com/files/papers/ICSE_SEIP_2020.pdf)
+
 - Roberto Verdecchia, Patricia Lago, Ivano Malavolta, Ipek Ozkaya (2020). ATDx: Building an Architectural Technical Debt Index. In Proceedings of the 15th International Conference on Evaluation of Novel Approaches to Software Engineering, ENASE 2020, Prague, Czech Republic, pp. 531–539. [PDF](http://www.ivanomalavolta.com/files/papers/ENASE_2020.pdf)
+
 - Ivano Malavolta, Katerina Chinnappan, Lukas Jasmontas, Sarthak Gupta, Kaveh Ali Karam Soltany (2020). Evaluating the Impact of Caching on the Energy Consumption and Performance of Progressive Web Apps. In Proceedings of the IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems, pp. 109–119 [PDF](http://www.ivanomalavolta.com/files/papers/MOBILESoft_Caching_PWA_2020.pdf)
+
 - Ivano Malavolta, Eoin Martino Grua, Cheng-Yu Lam, Randy de Vries, Franky Tan, Eric Zielinski, Michael Peters, Luuk Kaandorp (2020). A Framework for the Automatic Execution of Measurement-based Experiments on Android Devices. In 35th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW '20), pp. 61–66 [PDF](http://www.ivanomalavolta.com/files/papers/A_Mobile_2020.pdf)
+
 - Luca Pascarella, Franz-Xaver Geiger, Fabio Palomba, Dario Di Nucci, Ivano Malavolta, Alberto Bacchelli (2018). Self-Reported Activities of Android Developers. In 5th IEEE/ACM International Conference on Mobile Software Engineering and Systems, pp. 144-155, New York, NY. [PDF](http://www.ivanomalavolta.com/files/papers/mobilesoft_2018_self.pdf)
+
 - Franz-Xaver Geiger, Ivano Malavolta, Luca Pascarella, Fabio Palomba, Dario Di Nucci, Ivano Malavolta, Alberto Bacchelli (2018). A Graph-based Dataset of Commit History of Real-World Android apps. In Proceedings of the 15th International Conference on Mining Software Repositories, MSR, pp. 30–33, New York, NY [PDF](http://www.ivanomalavolta.com/files/papers/MSR_2018.pdf)
+
 - Ivano Malavolta, Giuseppe Procaccianti, Paul Noorland, Petar Vukmirovic (2017). Assessing the Impact of Service Workers on the Energy Efficiency of Progressive Web Apps. In Proceedings of the International Conference on Mobile Software Engineering and Systems, MOBILESoft '17, Buenos Aires, Argentina, May, 2017, pp. 35–45 [PDF](http://www.ivanomalavolta.com/files/papers/Mobilesoft_2017.pdf) <i class="fas fa-award"></i> **Best paper award**
+
 - Roberto Verdecchia, Giuseppe Procaccianti, Ivano Malavolta, Patricia Lago, Joost Koedijk (2017). Estimating Energy Impact of Software Releases and Deployment Strategies: the KPMG Case Study. In Proceedings of the 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ESEM 2017, Toronto, Canada, November 9-10, 2017, pp. 257–266 [PDF](http://www.ivanomalavolta.com/files/papers/ESEM_2017.pdf)
+
 - Moghaddam, F. A., Procaccianti, G., Lewis, G. A., & Lago, P. (2018). Empirical validation of cyber-foraging architectural tactics for surrogate provisioning. Journal of Systems and Software, 138, 37-51. [HTML](https://www.sciencedirect.com/science/article/pii/S0164121217302832)
+
 - Verdecchia, R., Saez, R. A., Procaccianti, G., & Lago, P. (2018, May). Empirical Evaluation of the Energy Impact of Refactoring Code Smells. In ICT4S (pp. 365-383).
  [PDF](https://research.vu.nl/ws/portalfiles/portal/75753574/Empirical_Evaluation_of_the_Energy_Impact_of_Refactoring_Code_Smells.pdf)
+
 - Procaccianti, G., Lago, P., Vetro, A., Fernández, D. M., & Wieringa, R. (2015, May). The green lab: Experimentation in software energy efficiency. In 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering (Vol. 2, pp. 941-942). IEEE. [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.706.1107&rep=rep1&type=pdf)
+
 - Lundfall, K., Grosso, P., Lago, P., & Procaccianti, G. (2015, September). The Green Practitioner: A decision-making tool for green ICT. In EnviroInfo and ICT for Sustainability 2015 (pp. 74-81). Atlantis Press. [PDF](https://research.vu.nl/ws/portalfiles/portal/1400211/AP1.12.pdf)
+
 - Procaccianti, G., Lago, P., & Diesveld, W. (2016, September). Energy efficiency of orm approaches: an empirical evaluation. In Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (pp. 1-10). [PDF](https://research.vu.nl/ws/portalfiles/portal/1510134)
+
 - Jagroep, E. A., van der Werf, J. M., Brinkkemper, S., Procaccianti, G., Lago, P., Blom, L., & van Vliet, R. (2016, May). Software energy profiling: Comparing releases of a software product. In Proceedings of the 38th International Conference on Software Engineering Companion (pp. 523-532). [PDF](https://research.vu.nl/ws/portalfiles/portal/1433140/ICSE+2016+submitted.pdf)
+
 - Procaccianti, G., Fernández, H., & Lago, P. (2016). Empirical evaluation of two best practices for energy-efficient software development. Journal of Systems and Software, 117, 185-198. [PDF](https://research.vu.nl/ws/portalfiles/portal/1433174/green-practices-JSS.pdf)
+
 - Jagroep, E., Procaccianti, G., van der Werf, J. M., Brinkkemper, S., Blom, L., & van Vliet, R. (2017). Energy efficiency on the product roadmap: An empirical study across releases of a software product. Journal of Software: Evolution and process, 29(2), e1852. [PDF](https://research.vu.nl/ws/portalfiles/portal/1601940/Energy+efficiency+on+the+product+roadmap+an+empirical+study+across+releases+of+a+software+product.pdf)
  
 

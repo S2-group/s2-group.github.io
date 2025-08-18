@@ -139,6 +139,12 @@ team:
     img: /img/people/kozanis.jpg
     desc: Scientific Assistant
     website: https://github.com/Tsosko
+ - name: Khawlah Alshubati
+   img: /img/people/khawlah.jpg
+   desc: PhD Student
+   website: https://www.datacamp.com/portfolio/khawlahAlshubati
+   url: https://www.linkedin.com/in/khawlah-alshubati
+   github: https://github.com/alshubati99
 ---
 {% include list-squares.html items=page.team %}
 

@@ -127,6 +127,12 @@ team:
     img: /img/people/sibo.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/bouazza-el-moutaouakil-841507109
+  - name: Khawlah Alshubati
+    img: /img/people/khawlah.jpeg
+    desc: PhD Student
+    website: https://www.datacamp.com/portfolio/khawlahAlshubati
+    url: https://www.linkedin.com/in/khawlah-alshubati
+    github: https://github.com/alshubati99
   - name: Andrei Dragomir
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant
@@ -139,12 +145,6 @@ team:
     img: /img/people/kozanis.jpg
     desc: Scientific Assistant
     website: https://github.com/Tsosko
-  - name: Khawlah Alshubati
-    img: /img/people/khawlah.jpeg
-    desc: PhD Student
-    website: https://www.datacamp.com/portfolio/khawlahAlshubati
-    url: https://www.linkedin.com/in/khawlah-alshubati
-    github: https://github.com/alshubati99
 ---
 {% include list-squares.html items=page.team %}
 

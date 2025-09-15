@@ -136,7 +136,7 @@ team:
   - name: Shaurya Gaur
     img: /img/people/shaurya.png
     desc: PhD Student
-    website: https://www.linkedin.com/in/shaurgaur/
+    website: https://www.linkedin.com/in/shaurgaur
     github: https://github.com/ShaurGaur
   - name: Andrei Dragomir
     img: /img/people/andrei-calin.jpeg

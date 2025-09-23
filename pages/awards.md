@@ -12,6 +12,11 @@ title: Awards
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
 
+## ❖ Best Reviewer Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Ilias Gerostathopoulos_<br>
+**Venue:** 19th European Conference on Software Architecture (ECSA 2025) <br><br>
+
 ## ❖ 10-Year Most Influential Paper Award
 <p style="margin-top:-16px;"></p>  
 **Recipients:** Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’Ippolito, **Ilias Gerostathopoulos**, Andreas B. Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir Molzam Sharioo, Stepan Shevtsov, Mateusz Ujma, Thomas Vogel<br>

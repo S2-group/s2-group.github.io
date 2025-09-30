@@ -30,7 +30,7 @@ The project involves different partners from industry and academia:
 
 - Schuberg Philis (https://schubergphilis.com/en): providing a representative pilot testbed, order to do practical experiments in live cloud application layers with software applications from industrial, scientific/educational and governmental tenants of colocations.
 
-- SIG - Software Investment Group (https://www.linkedin.com/company/software-improvement-group) research department in the implementation of the software assurance model and prototype
+- SIG - Software Improvement Group (https://www.linkedin.com/company/software-improvement-group) research department in the implementation of the software assurance model and prototype
 
 - Imuno Therapeutics (https://www.imunotx.com/) and BonvinLab@Utrecht University (https://www.bonvinlab.org/) for providing scientific software applications to test our tactics.
 

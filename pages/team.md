@@ -17,11 +17,6 @@ team:
     url: http://www.ivanomalavolta.com
     github: https://github.com/iivanoo
     twitter: https://twitter.com/IMalavolta
-  - name: Dr. Emitzá Guzmán
-    img: /img/people/emitza.jpeg
-    desc: Assistant Professor
-    website: https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en
-    url: https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en
   - name: Dr. Ilias Gerostathopoulos
     img: /img/people/ilias.jpeg
     desc: Assistant Professor
@@ -168,6 +163,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Dr. Emitzá Guzmán](https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en)
 - [Dr. Fernanda Madeiral](https://fermadeiral.github.io)
 - [Dr. Robert Deckers](https://www.linkedin.com/in/robertdeckers/) - Graduated PhD student
 - [Radu Apsan](https://www.linkedin.com/in/radu-apsan-a78296213/)

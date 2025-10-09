@@ -1,0 +1,62 @@
+---
+layout: post
+title: 🌱 Green Hackathon Report
+tags: [sustainability]
+comments: true
+---
+
+## Event Summary
+On October 7, the **Green Hackathon** was hosted as part of the Green Lab course in the Master of Computer Science program.  
+Students participated actively, sharing innovative sustainability ideas and engaging in thoughtful discussions.  
+The event fostered collaboration, creativity, and an inspiring atmosphere centered around **green software innovation**.
+
+---
+
+## Overview
+The **Green Hackathon** encourages students to design **innovative, sustainability-focused software concepts**.  
+Rather than implementing solutions, teams focus on creativity, impact, and societal relevance.  
+Each group identifies a sustainability problem, proposes a novel software-based idea, and presents its potential contribution to greener computing.
+
+---
+
+## Results
+
+All groups were evaluated by a jury composed of two guests — Pooja Rani and Tristan Coignion — and the teaching team: Ivano Malavolta, Vincenzo Stoico, as well as the course teaching assistants, who brought valuable insights and perspectives to the judging process.
+
+| Rank | Project Title | Members |
+|------|----------------|----------|
+| 🥇 1st Place | GreenPrompt | Houcen Liu |
+| 🥈 2nd Place | ClearSky | Federico Donati, Jasper Chesselet, Joli-Coeur Weibolt, Klemen Policar, Margaux van Geem |
+| 🥉 3rd Place | Sustainable heating for “Free” - IT for Sustainability | David Vigh |
+| 4th Place | GreenLint: Code Smarter, Save Energy & Save the Planet | Abdus Samad, Ahsan Ishan, Jorge Leon Chumpitaz, Salim Lawal, Victor Olasehinde |
+
+---
+
+## Project Descriptions
+
+### GreenPrompt - Making AI Greener at the Human–Model Interface
+LLMs consume significant energy, but users don’t see the cost. GreenPrompt wants to be a lightweight SLM companion that rewrites/optimizes prompts locally before sending them to the LLM. It does so by guiding users to shorter, structured, greener prompts with minimal accuracy loss.
+
+### ClearSky
+In a world were people spend most of their time in front of a screen, this is a game that rewards putting down your phone. Your screen time clouds the digital sky, and every unplugged minute clears it.
+If attention is the new currency, energy is the hidden tax. ClearSky turns that hidden tax into a living visual.
+
+### Sustainable heating for “Free” - IT for Sustainability
+Electricity prices and carbon emissions fluctuate throughout the day, with cleaner periods aligning with high renewables output. The idea is to automate schedules for devices to avoid extreme prices. A smart boiler, for example, can automatically schedule heating for low-price, low-carbon times.
+It’s easy to install—simply replace the old unit and connect it to Wi-Fi.
+
+### GreenLint: Code Smarter, Save Energy & Save the Planet
+A revolutionary Python linter that makes your code energy-efficient automatically. Where clean code meets clean energy for a sustainable future.
+
+## Photos
+<p align="center">
+  <img src="../files/posts/green-hackathon/PXL_20251007_071326523.MP%20(1).jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_075106950.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_080341000.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_082221440.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084636308.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084727692.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084828731.MP.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084907697.MP.jpg" width="400"/>
+</p>
+

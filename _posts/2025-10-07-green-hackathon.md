@@ -56,7 +56,7 @@ A revolutionary Python linter that makes your code energy-efficient automaticall
   <img src="../files/posts/green-hackathon/PXL_20251007_082221440.jpg" width="400"/>
   <img src="../files/posts/green-hackathon/PXL_20251007_084636308.jpg" width="400"/>
   <img src="../files/posts/green-hackathon/PXL_20251007_084727692.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_084828731.MP.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_084907697.MP.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084828731.MP.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084907697.MP.jpg" width="400"/>
 </p>
 

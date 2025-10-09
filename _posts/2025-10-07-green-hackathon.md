@@ -1,4 +1,9 @@
-# 🌱 Green Hackathon Report
+---
+layout: post
+title: 🌱 Green Hackathon Report
+tags: [sustainability]
+comments: true
+---
 
 ## Event Summary
 On October 7, the **Green Hackathon** was hosted as part of the Green Lab course in the Master of Computer Science program.  

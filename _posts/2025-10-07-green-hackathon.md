@@ -50,12 +50,12 @@ A revolutionary Python linter that makes your code energy-efficient automaticall
 
 ## Photos
 <p align="center">
-  <img src="files/posts/green-hackathon/PXL_20251007_071326523.MP%20(1).jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_075106950.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_080341000.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_082221440.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_084636308.jpg" width="400"/>
-  <img src="files/posts/green-hackathon/PXL_20251007_084727692.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_071326523.MP%20(1).jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_075106950.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_080341000.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_082221440.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084636308.jpg" width="400"/>
+  <img src="../files/posts/green-hackathon/PXL_20251007_084727692.jpg" width="400"/>
   <img src="files/posts/green-hackathon/PXL_20251007_084828731.MP.jpg" width="400"/>
   <img src="files/posts/green-hackathon/PXL_20251007_084907697.MP.jpg" width="400"/>
 </p>

@@ -32,8 +32,8 @@ team:
   - name: Dr. Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Assistant Professor
-    website: https://vstoico.vercel.app/
-    url: https://vstoico.vercel.app/
+    website: https://vstoico.gitlab.io
+    url: https://vstoico.gitlab.io
     mastodon: https://mastodon.acm.org/@vnzstc
     github: https://github.com/vnzstc
   - name: Dr. Klervie Toczé
@@ -118,7 +118,7 @@ team:
     img: /img/people/engelbert.jpeg
     desc: PhD Student
     website: https://orcid.org/0009-0001-4331-5825
-  - name: Bouazza El Moutaouakil 
+  - name: Bouazza El Moutaouakil
     img: /img/people/sibo.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/bouazza-el-moutaouakil-841507109
@@ -150,14 +150,17 @@ team:
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/lara-baseggio/
 ---
+
 {% include list-squares.html items=page.team %}
 
 # Associated Members
+
 - [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
 - [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
+
 - [Muhammad Imran](https://spencerlabaq.github.io/author/muhammad-imran/)
 - [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Roberto Verdecchia](https://robertoverdecchia.github.io/) - Graduated PhD student
@@ -167,6 +170,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+
 - [Dr. Emitzá Guzmán](https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en)
 - [Dr. Fernanda Madeiral](https://fermadeiral.github.io)
 - [Dr. Robert Deckers](https://www.linkedin.com/in/robertdeckers/) - Graduated PhD student
@@ -201,8 +205,9 @@ team:
 - [Dr. Giordano Tamburrelli](https://www.linkedin.com/in/giordano-t-b532334/)
 
 # Guests
+
 - [Prof. Daniela Damian](https://danadamian.wordpress.com/)
 - [Prof. Philippe Kruchten](https://philippe.kruchten.com/)
 - [Dr. Henry Muccini](https://www.henrymuccini.com/)
 - [Prof. Ita Richardson](https://www.csis.ul.ie/staff/ItaRichardson/)
-- [Dr. Antonio Vetrò ](https://nexa.polito.it/people/avetro)
+- [Dr. Antonio Vetrò](https://nexa.polito.it/people/avetro)

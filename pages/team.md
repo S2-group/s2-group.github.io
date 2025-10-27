@@ -145,6 +145,10 @@ team:
     img: /img/people/kozanis.jpg
     desc: Scientific Assistant
     website: https://github.com/Tsosko
+  - name: Lara Baseggio
+    img: /img/people/lara_baseggio.jpg
+    desc: Scientific Assistant
+    website: https://www.linkedin.com/in/lara-baseggio/
 ---
 {% include list-squares.html items=page.team %}
 

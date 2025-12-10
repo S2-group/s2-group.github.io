@@ -56,11 +56,6 @@ team:
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
     url: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
-  - name: Anjana M S
-    img: /img/people/anjana.jpeg
-    desc: PhD Student
-    website: https://in.linkedin.com/in/anjana-m-s-601040b5
-    url: https://in.linkedin.com/in/anjana-m-s-601040b5
   - name: Lauren Olson
     img: /img/people/lauren.jpg
     desc: PhD Student
@@ -90,10 +85,6 @@ team:
     website: https://www.linkedin.com/in/joran-leest-204b40165
     url: https://www.linkedin.com/in/joran-leest-204b40165
     github: https://github.com/JoranLeest
-  - name: Anna Fischer
-    img: /img/people/anna-2.jpg
-    desc: PhD Student
-    website: https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105
   - name: Faezeh Amou Najafabadi
     img: /img/people/faeze.jpg
     desc: PhD Student
@@ -171,6 +162,8 @@ team:
 
 # Former Members
 
+- [Dr. Anjana M S](https://in.linkedin.com/in/anjana-m-s-601040b5) - Graduated PhD student
+- [Anna Fischer](https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105)
 - [Dr. Emitzá Guzmán](https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en)
 - [Dr. Fernanda Madeiral](https://fermadeiral.github.io)
 - [Dr. Robert Deckers](https://www.linkedin.com/in/robertdeckers/) - Graduated PhD student

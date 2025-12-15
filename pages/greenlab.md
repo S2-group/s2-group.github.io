@@ -32,6 +32,10 @@ In a nutshell, the Green Lab is composed of three main components:
 
 - Vince Nguyen, Vidya Dhopate, Hieu Huynh, Hiba Bouhlal, Anusha Annengala, Gian Luca Scoccia, Matias Martinez, Vincenzo Stoico, Ivano Malavolta. On-Device or Remote? On the Energy Efficiency of Fetching LLM-Generated Content. In 4th IEEE/ACM International Conference on AI Engineering - Software Engineering for AI, CAIN 2025, Lisbon, Portugal, April 27-28, 2025, pp. 72–82. [PDF](http://www.ivanomalavolta.com/files/papers/CAIN_2025.pdf)
 
+- Xingwen Xiao, Chushu Gao, and Justus Bogner. 2025. On the Effectiveness of Microservices Tactics and Patterns to Reduce Energy Consumption: An Experimental Study on Trade-Offs. In 2025 IEEE 22nd International Conference on Software Architecture (ICSA), 2025. IEEE, Odense, Denmark. [PDF](https://arxiv.org/abs/2501.14402)
+
+- Yiming Zhao, Tiziano De Matteis, and Justus Bogner. 2025. How Does Microservice Granularity Impact Energy Consumption and Performance? A Controlled Experiment. In 2025 IEEE 22nd International Conference on Software Architecture (ICSA), 2025. IEEE, Odense, Denmark. [PDF](https://arxiv.org/abs/2502.00482)
+
 - Engel Hamer, Michel Albonico, Ivano Malavolta. Resource Utilization of 2D SLAM Algorithms in ROS-Based Systems: an Empirical Evaluation. Journal of the Brazilian Computer Society (JBCS), 31(1), pp. 229–261. [PDF](http://www.ivanomalavolta.com/files/papers/JBCS_2025.pdf)
 
 - Ivano Malavolta, Vincenzo Stoico, Patricia Lago (2024). Ten Years of Teaching Empirical Software Engineering in the context of Energy-efficient Software in Teaching Empirical Research Methods in Software Engineering. Edited by Springer, Springer. [PDF](http://www.ivanomalavolta.com/files/papers/EMSE_EDU_2024.pdf)

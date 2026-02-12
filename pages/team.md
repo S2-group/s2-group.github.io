@@ -41,6 +41,12 @@ team:
     desc: Postdoc Researcher
     website: https://www.linkedin.com/in/klervietocze/
     url: https://www.linkedin.com/in/klervietocze/
+  - name: Dr. Vinicius dos Santos
+    img: /img/people/vinicius.jpg
+    desc: Postdoc Researcher
+    website: https://vinnydsstos.github.io/academic-bio/
+    url: https://vinnydsstos.github.io/academic-bio/
+    github: https://github.com/vinnydsstos
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Research Fellow - Digital Architecture

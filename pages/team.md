@@ -134,10 +134,6 @@ team:
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant
     website: https://github.com/andrei-calin-dragomir
-  - name: Max Karsten
-    img: /img/people/max_karsten.jpeg
-    desc: Scientific Assistant
-    website: https://github.com/mhkarsten
   - name: Konstantinos Kozanis
     img: /img/people/kozanis.jpg
     desc: Scientific Assistant
@@ -168,6 +164,7 @@ team:
 
 # Former Members
 
+- [Max Karsten](https://github.com/mhkarsten)
 - [Dr. Anjana M S](https://in.linkedin.com/in/anjana-m-s-601040b5) - Graduated PhD student
 - [Anna Fischer](https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105)
 - [Dr. Emitzá Guzmán](https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en)

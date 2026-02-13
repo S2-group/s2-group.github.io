@@ -142,6 +142,10 @@ team:
     img: /img/people/lara_baseggio.jpg
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/lara-baseggio/
+  - name: Moriah Owens
+    img: /img/people/moriah.jpg
+    desc: Scientific Assistant
+    website: https://www.linkedin.com/in/moriah-owens/
 ---
 
 {% include list-squares.html items=page.team %}

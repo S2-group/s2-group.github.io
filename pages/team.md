@@ -130,6 +130,12 @@ team:
     desc: PhD Student
     website: https://www.linkedin.com/in/shaurgaur
     github: https://github.com/ShaurGaur
+  - name: Hiya Bhatt
+    img: /img/people/hiya.jpg
+    desc: PhD Student
+    website: https://hiyabhatt.github.io
+    url: https://www.linkedin.com/in/hiya-bhatt-a465251a6
+    github: https://github.com/hiyabhatt
   - name: Andrei Dragomir
     img: /img/people/andrei-calin.jpeg
     desc: Scientific Assistant

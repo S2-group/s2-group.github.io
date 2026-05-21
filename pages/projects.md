@@ -12,6 +12,21 @@ title: Research Projects
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
     <div style="text-align: center;">
         <figure>
+             <img height="200" width="auto" src="/img/logos/phoenix.jpg"
+                alt="">
+            <figcaption></figcaption>
+        </figure>
+        <div><strong style="color: #00FF00;">Phoenix - Energy-aware Data Management from Practice to Research</strong><br></div>
+        <div style="text-align:left;">    
+        Science relies on knowledge, knowledge relies on data. However, not all data is necessary, nor is it always managed efficiently or effectively. This is witnessed by the rapid growth of energy use in data centres with unsustainable socio-environmental effects. Industry has started creating and adopting energy-aware data management tactics. Science must do the same.To this aim, we build upon the methods and results emerged from the pragmatism of industrial practice and the rigour of academic research. We create an integrated `modeling-and-measurement’ method coming from both worlds, with energy-aware tactics learned in industry, and adapted and measured in academic research.
+            <a href="https://hetkin.nl/en/funding-awarded-to-40-projects-from-calls-under-the-science-in-transition-programme/">[Read more.]<br><br><br><br></a>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+    <div style="text-align: center;">
+        <figure>
              <img height="200" width="auto" src="/img/logos/letsgo.jpg"
                 alt="">
             <figcaption></figcaption>

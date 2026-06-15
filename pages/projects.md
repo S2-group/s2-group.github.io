@@ -27,14 +27,14 @@ title: Research Projects
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
     <div style="text-align: center;">
         <figure>
-             <img height="200" width="auto" src="/img/logos/placeholder_img.png"
+             <img height="200" width="auto" src="/img/logos/no_image.jpg"
                 alt="">
             <figcaption></figcaption>
         </figure>
         <div><strong style="color: #00FF00;">DAISY-HP: Deep-learning ArchItectureS with Approximate Inference for EnergY-efficient Health Prediction</strong><br></div>
         <div style="text-align:left;">    
             Deep learning algorithms have shown strong performance in detecting and classifying arrhythmia, but their complexity and high power consumption limit their use in real-time wearable medical devices, where low-power and efficient solutions are essential. Approximate computing is a design approach that intentionally allows small, controlled errors in computation to reduce energy consumption, latency, and hardware complexity while maintaining output accuracy that is sufficient for the intended application. This project explores the use of approximate computing to reduce the energy usage of deep learning models for arrhythmia detection.
-            <br><br><br><br></a>
+            <br><br><br><br>
         </div>
     </div>
 </div>
@@ -89,7 +89,7 @@ title: Research Projects
 </div>
 
 # Past projects
-- LETSGO
+- [LETSGO](https://vstoico.gitlab.io/Blog/LETSGO)
 - [ExtremeXP](https://extremexp.eu/)
 - [uDEVOPS](https://microdevops.wordpress.com/)
 - [BUMBLE - Blended Modelling for Enhanced Software and Systems Engineering](https://itea4.org/project/bumble.html)

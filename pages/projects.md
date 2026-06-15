@@ -31,6 +31,22 @@ title: Research Projects
                 alt="">
             <figcaption></figcaption>
         </figure>
+        <div><strong style="color: #00FF00;">GAT4ML: Reducing the Environmental Impact of ML-Enabled Systems via Green Architectural Tactics</strong><br></div>
+        <div style="text-align:left;">    
+        To combat the increased energy demand of systems using machine learning (ML), especially modern ones based on large language models (LLMs), we take a holistic software architecture perspective to synthesize reusable software design guidance to improve environmental sustainability via green architectural tactics. We will provide a holistic collection of effective green tactics, a tool-supported methodology to guide the continuous synthesis of tactics for researchers, a tool-supported methodology to allow efficient tactic browsing and selection for practitioners, empirical evidence for the effectiveness and trade-offs for tactics, and guidelines for applying and implementing the tactics in real-world industry settings, including prototypical sample implementations. <a href="https://www.nwo.nl/en/projects/xzsqr74294">[See more]<br><br><br><br></a>
+            <br><br><br><br>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+    <div style="text-align: center;">
+        <figure>
+             <img height="200" width="auto" src="/img/logos/no_image.jpg"
+                alt="">
+            <figcaption></figcaption>
+        </figure>
         <div><strong style="color: #00FF00;">DAISY-HP: Deep-learning ArchItectureS with Approximate Inference for EnergY-efficient Health Prediction</strong><br></div>
         <div style="text-align:left;">    
             Deep learning algorithms have shown strong performance in detecting and classifying arrhythmia, but their complexity and high power consumption limit their use in real-time wearable medical devices, where low-power and efficient solutions are essential. Approximate computing is a design approach that intentionally allows small, controlled errors in computation to reduce energy consumption, latency, and hardware complexity while maintaining output accuracy that is sufficient for the intended application. This project explores the use of approximate computing to reduce the energy usage of deep learning models for arrhythmia detection.

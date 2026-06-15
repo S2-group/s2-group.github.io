@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Phoenix' project recieves funding from the Sustainable Science Fund"
+title: "'Phoenix' project receives funding from the Sustainable Science Fund"
 subtitle: Phoenix – Energy-aware Data Management from Practice to Research
 tags: [funding]
 comments: true

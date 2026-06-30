@@ -7,6 +7,14 @@ title: Our software
 
 In the following you can find the main software (open-source) projects implemented and maintained by us. Refer to our [GitHub profile](https://github.com/S2-group/) for a complete overview of all our projects/tools.
 
+## PeekStack
+A containerized toolkit for gathering, processing, and visualizing machine metrics, with a focus on power consumption.
+
+Github:	[https://github.com/S2-group/PeekStack](https://github.com/S2-group/PeekStack)
+
+Contributors: Andrei Calin Dragomir, Vincenzo Stoico
+
+
 ## Experiment Runner
 Experiment Runner is a generic framework to automatically execute measurement-based experiments on any platform. The experiments are user-defined, can be completely customized, and expressed in python code!
 

@@ -12,6 +12,16 @@ title: Awards
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
 
+## ❖ Distinguished Reviewer Award
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Justus Bogner_<br>
+**Venue:** 23rd IEEE International Conference on Software Architecture (ICSA 2026) <br><br>
+
+## ❖ ICT4S Fellow Award for outstanding community contributions
+<p style="margin-top:-16px;"></p>
+**Recipient:** _Patricia Lago_<br>
+**Venue:** International Conference on ICT for Sustainability (ICT4S 2026) <br><br>
+
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>
 **Recipient:** _Ilias Gerostathopoulos_<br>

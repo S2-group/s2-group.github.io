@@ -10,7 +10,7 @@ comments: true
 We are excited to announce that the project 'Phoenix – Energy-aware Data Management from Practice to Research' has been granted funding under the [Sustainable Science Fund](https://hetkin.nl/en/funding-awarded-to-40-projects-from-calls-under-the-science-in-transition-programme/). With this contribution, the Netherlands Organisation for Scientific Research (NWO) and the Climate Research Initiative Netherlands (KIN) aim to make the way research is conducted more environmentally friendly.
 
 
-The project will be run by Prof. Dr P. Lago (PI), Dr. M. Funke and Dr V. Stoico (co-PIs) from the S2 group.
+The project will be run by Prof. Dr P. Lago (PI), Dr. M. Funke and Dr. V. Stoico (co-PIs) from the S2 group.
 
 **Project Description**
 Science relies on knowledge, knowledge relies on data. However, not all data is necessary, nor is it always managed efficiently or effectively. This is witnessed by the rapid growth of energy use in data centres with unsustainable socio-environmental effects. Industry has started creating and adopting energy-aware data management tactics. Science must do the same.To this aim, we build upon the methods and results emerged from the pragmatism of industrial practice and the rigour of academic research. We create an integrated `modeling-and-measurement’ method coming from both worlds, with energy-aware tactics learned in industry, and adapted and measured in academic research.

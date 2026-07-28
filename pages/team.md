@@ -9,7 +9,6 @@ team:
     website: http://patricialago.nl
     url: http://patricialago.nl
     github: https://github.com/lagopat
-    twitter: https://twitter.com/patricia_lago
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Associate Professor

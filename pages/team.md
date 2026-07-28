@@ -164,15 +164,15 @@ team:
 # Scientific Collaborators
 
 - [Muhammad Imran](https://spencerlabaq.github.io/author/muhammad-imran/)
-- [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Roberto Verdecchia](https://robertoverdecchia.github.io/) - Graduated PhD student
+
+# Former Members
+
+- [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
 - [Dr. Gian Luca Scoccia](https://gianlucascoccia.github.io)
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
-
-# Former Members
-
 - [Max Karsten](https://github.com/mhkarsten)
 - [Dr. Anjana M S](https://in.linkedin.com/in/anjana-m-s-601040b5) - Graduated PhD student
 - [Anna Fischer](https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105)

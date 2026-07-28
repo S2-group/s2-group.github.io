@@ -35,6 +35,12 @@ team:
     url: https://vstoico.gitlab.io
     mastodon: https://mastodon.acm.org/@vnzstc
     github: https://github.com/vnzstc
+  - name: Dr. Markus Funke
+    img: /img/people/markus.jpeg
+    desc: Assistant Professor
+    website: https://www.linkedin.com/in/markus-t-funke
+    url: https://www.linkedin.com/in/markus-t-funke
+    github: https://github.com/FunkeMT
   - name: Dr. Klervie Toczé
     img: /img/people/KlervieCarre.png
     desc: Postdoc Researcher
@@ -66,12 +72,6 @@ team:
     desc: PhD Student
     website: https://laols574.github.io
     github: https://github.com/laols574
-  - name: Markus Funke
-    img: /img/people/markus.jpeg
-    desc: PhD Student
-    website: https://www.linkedin.com/in/markus-t-funke
-    url: https://www.linkedin.com/in/markus-t-funke
-    github: https://github.com/FunkeMT
   - name: Elvin Alberts
     img: /img/people/elvin.jpg
     desc: PhD Student

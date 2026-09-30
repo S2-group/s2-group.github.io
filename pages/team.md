@@ -67,23 +67,12 @@ team:
     desc: Junior Lecturer
     website: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
     url: https://www.linkedin.com/in/abhishek-iyer-25774b1ab
-  - name: Lauren Olson
-    img: /img/people/lauren.jpg
-    desc: PhD Student
-    website: https://laols574.github.io
-    github: https://github.com/laols574
   - name: Elvin Alberts
     img: /img/people/elvin.jpg
     desc: PhD Student
     website: https://research.vu.nl/en/persons/elvin-alberts
     url: https://research.vu.nl/en/persons/elvin-alberts
     github: https://github.com/EGAlberts
-  - name: Iffat Fatima
-    img: /img/people/iffat.jpg
-    desc: PhD Student
-    website: http://www.fatimaiffat.com
-    url: https://www.linkedin.com/in/iffat-fatima
-    github: https://github.com/iffatfatima
   - name: Joran Leest
     img: /img/people/joran.jpg
     desc: PhD Student
@@ -168,6 +157,8 @@ team:
 
 # Former Members
 
+- [Iffat Fatima](http://www.fatimaiffat.com) - Graduated PhD student
+- [Lauren Olson](https://laols574.github.io) - Graduated PhD student
 - [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)

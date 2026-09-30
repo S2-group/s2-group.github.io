@@ -157,7 +157,7 @@ team:
 
 # Former Members
 
-- [Iffat Fatima](http://www.fatimaiffat.com) - Graduated PhD student
+- [Iffat Fatima](https://iffatfatima.nl) - Graduated PhD student
 - [Lauren Olson](https://laols574.github.io) - Graduated PhD student
 - [Prof. Antony Tang](https://au.linkedin.com/in/antony-tang-8a501612)
 - [Dr. Michel Albonico](https://michelalbonico.github.io)

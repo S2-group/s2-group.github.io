@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations to Iffat Fatima on Graduating Cum Laude"
+title: "Iffat Fatima Graduates Cum Laude"
 subtitle: Iffat Fatima has successfully completed her PhD cum laude.
 tags: [news]
 comments: true

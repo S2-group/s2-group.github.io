@@ -132,10 +132,6 @@ team:
     img: /img/people/kozanis.jpg
     desc: Scientific Assistant
     website: https://github.com/Tsosko
-  - name: Lara Baseggio
-    img: /img/people/lara_baseggio.jpg
-    desc: Scientific Assistant
-    website: https://www.linkedin.com/in/lara-baseggio/
   - name: Moriah Owens
     img: /img/people/moriah.jpg
     desc: Scientific Assistant

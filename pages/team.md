@@ -138,7 +138,7 @@ team:
     website: https://www.linkedin.com/in/moriah-owens/
   - name: Aastha Pant
     img: /img/people/Aastha.jpeg
-    desc: Postdoc researcher
+    desc: Postdoc Researcher
     website: https://aasthapant.com/
     url: https://www.linkedin.com/in/aastha-pant-ph-d-189012161/
 ---

@@ -137,7 +137,7 @@ team:
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/moriah-owens/
   - name: Aastha Pant
-    img: /img/people/aastha.jpg
+    img: /img/people/aastha.jpeg
     desc: Postdoc researcher
     website: https://aasthapant.com/
     url: https://www.linkedin.com/in/aastha-pant-ph-d-189012161/
